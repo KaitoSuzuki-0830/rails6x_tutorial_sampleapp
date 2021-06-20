@@ -1,0 +1,5 @@
+current directory: /Users/kaitosuzuki/Desktop/railstutorial6x/sample_app/vendor/bundle/ruby/3.0.0/gems/childprocess-2.0.0/ext
+/Users/kaitosuzuki/.rbenv/versions/3.0.1/bin/ruby mkrf_conf.rb
+
+current directory: /Users/kaitosuzuki/Desktop/railstutorial6x/sample_app/vendor/bundle/ruby/3.0.0/gems/childprocess-2.0.0/ext
+/Users/kaitosuzuki/.rbenv/versions/3.0.1/bin/ruby -I/Users/kaitosuzuki/.rbenv/versions/3.0.1/lib/ruby/site_ruby/3.0.0 -rrubygems /Users/kaitosuzuki/Desktop/railstutorial6x/sample_app/vendor/bundle/ruby/3.0.0/gems/rake-13.0.3/exe/rake RUBYARCHDIR\=/Users/kaitosuzuki/Desktop/railstutorial6x/sample_app/vendor/bundle/ruby/3.0.0/extensions/arm64-darwin-20/3.0.0/childprocess-2.0.0 RUBYLIBDIR\=/Users/kaitosuzuki/Desktop/railstutorial6x/sample_app/vendor/bundle/ruby/3.0.0/extensions/arm64-darwin-20/3.0.0/childprocess-2.0.0
